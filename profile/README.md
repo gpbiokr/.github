@@ -1,3 +1,2 @@
-# GPBio.
+[![GPBio Logo](/profile/gp_sublogo_w.png)](http://gpbio.co.kr)
 
-http://gpbio.co.kr
